@@ -1,2 +1,2 @@
-# UASPBO_One Gate System - Mavia's
+# UASPBO - One Gate System: Mavia's
 ## lorem ipsum
