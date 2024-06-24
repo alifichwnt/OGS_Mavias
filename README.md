@@ -14,7 +14,8 @@ yang ada di Himpunan Mahasiswa Daerah MAVIA'S, Politeknik Statistika STIS. terdi
 
 ## How To Use?
 di Dalam Folder `dist`, sudah ada _executable file (.exe/.jar)_ bisa
-langsung dijalankan dari file tersebut. 
+langsung dijalankan dari file tersebut. database bernama `mavias.db` sudah
+tersedia di folder `sqlite`
 
 
 
