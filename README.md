@@ -1,6 +1,7 @@
 # UASPBO - One Gate System: Mavia's
 _One Gate System: Mavia's_ merupakan sebuah program _interface_ untuk mengelola aktivitas 
 yang ada di Himpunan Mahasiswa Daerah MAVIA'S, Politeknik Statistika STIS. terdiri dari:
+
 **1. Menu Mahasiswa:**
     Untuk mengelola data diri mahasiswa himada Mavia's.  
 
