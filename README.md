@@ -17,4 +17,5 @@ di Dalam Folder `dist`, sudah ada _executable file (.exe/.jar)_ bisa
 langsung dijalankan dari file tersebut. 
 
 _Regards,_
+
 _Rizky Alif Ichwanto (222212857)_
